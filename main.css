@@ -1,4 +1,6 @@
-
+*{
+    border:1px solid turquoise !important;
+}
 
 * {
     -webkit-box-sizing: border-box;
