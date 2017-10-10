@@ -17,14 +17,8 @@ h1   {color: blue;}
 p    {color: red;}
     }
 }
-
-html {
-    font-family:PT sans narrow;
-    -ms-text-size-adjust: 100%
-    _webkit-text-size-adjust: 100%
-}
-
-
+h1 {font-family: 'Architects Daughter';font-size: 22px;}
+h3 {font-family: 'Caveat';font-size: 22px;}
 .row {
     width: 100%;
     margin-bottom: 20px;
