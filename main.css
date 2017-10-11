@@ -1,6 +1,4 @@
-*{
-    border:1px solid turquoise !important;
-}
+
 
 * {
     -webkit-box-sizing: border-box;
@@ -17,7 +15,7 @@ h1   {color: blue;}
 p    {color: red;}
     }
 }
-h1 {font-family: 'Architects Daughter';font-size: 22px;}
+h1{font-family: 'Architects Daughter';font-size: 33px;}
 h3 {font-family: 'Caveat';font-size: 22px;}
 .row {
     width: 100%;
@@ -29,7 +27,13 @@ h3 {font-family: 'Caveat';font-size: 22px;}
     max-width: 1200px;
     width: 100%;
 }
-
+.circle {
+	border-radius: 50%;
+/*
+	width: 200px;
+	height: 200px; 
+*/
+}
 .col-1 {
     width: 8.33%;
 }
